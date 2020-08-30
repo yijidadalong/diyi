@@ -3,7 +3,7 @@
 
 #但跟踪所有的lib.a即使你再前面忽略了.a文件
 !lib.a
-
+g
 #只忽略当前目录下的todo文件,而不忽略 subdir/todo
 /todo
 
